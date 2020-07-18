@@ -1,1 +1,1 @@
-# script_movies_categories
+# how to organize a list of movies by categories, in php
